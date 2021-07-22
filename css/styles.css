@@ -97,6 +97,7 @@ svg{
 }
 .chat:hover{
     background-color: rgb(243, 243, 243);
+    cursor: pointer;
 }
 
 .chat img{
